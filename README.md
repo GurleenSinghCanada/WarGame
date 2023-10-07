@@ -18,7 +18,7 @@ War is a simple and fast-paced card game played with a standard deck of 52 cards
 
 <p align="center">
 Rounds Info <br/>
-<img src="https://imgur.com/QSDehOq" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/i4VGx3M" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <!--
