@@ -12,13 +12,13 @@ War is a simple and fast-paced card game played with a standard deck of 52 cards
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Rounds Info <br/>
-<img src="https://imgur.com/i4VGx3M" height="80%" width="80%" alt="War Game"/>
+<img src="https://imgur.com/i4VGx3M.png" height="80%" width="80%" alt="War Game"/>
 <br />
 <br />
 <!--
